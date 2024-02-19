@@ -1,0 +1,15 @@
+# Exercism Koltin programs
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Exercism-logo.svg/1200px-Exercism-logo.svg.png">
+
+> exercism.io
+
+###### Want to be a serious programmer? Try it
+
+<img src="https://pics.freeicons.io/uploads/icons/png/8993365461539683258-512.png" height="100" >
+
+##### General status of exercism problems
+
+| Problem Name                        | Status                                    | Language    | Level    |  Date            |
+| ----------------------------------- |:-----------------------------------------:| ----------- | :------: |  :-----------:   |
+| [Hello World](hello-world/src/main/kotlin/HelloWorld.kt)                        | <img src="https://static-00.iconduck.com/assets.00/process-completed-symbolic-icon-2048x2048-baquwdk1.png" width="30"> | Kotlin      | Easy      |February 18,2024    |
